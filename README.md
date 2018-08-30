@@ -4,7 +4,8 @@ Here I would mention some best practices about developing iOS Apps. Do follow th
 Below are the links of iOS Architecture : <br>
 https://www.linkedin.com/learning/ios-development-architecture <br>
 https://github.com/raywenderlich/swift-style-guide <br>
-https://www.raywenderlich.com/1073-model-view-controller-mvc-in-ios-a-modern-approach
+https://www.raywenderlich.com/1073-model-view-controller-mvc-in-ios-a-modern-approach <br>
+https://github.com/futurice/ios-good-practices
 
 
 

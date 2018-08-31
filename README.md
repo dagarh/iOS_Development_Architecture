@@ -1,5 +1,5 @@
 # iOS_Development_Architecture
-Here I would mention some best practices about developing iOS Apps. Do follow this in every app. 
+Here I would mention some best practices about developing iOS Apps. Do follow this in every app. Swiftlint is used to enable the guidlines in XCode i.e it will give you warning in case you are not following best practices. 
 
 Below are the links of iOS Architecture : <br>
 https://www.linkedin.com/learning/ios-development-architecture <br>

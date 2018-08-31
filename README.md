@@ -6,7 +6,8 @@ https://www.linkedin.com/learning/ios-development-architecture <br>
 https://github.com/raywenderlich/swift-style-guide <br>
 https://www.raywenderlich.com/1073-model-view-controller-mvc-in-ios-a-modern-approach <br>
 https://github.com/futurice/ios-good-practices <br>
-https://medium.com/cocoaacademymag/swiftlint-introduction-tutorial-cd692d41dda3
+https://medium.com/cocoaacademymag/swiftlint-introduction-tutorial-cd692d41dda3 <br>
+https://codeburst.io/the-best-way-to-organize-your-xcode-project-files-724cf142fd39
 
 
 
